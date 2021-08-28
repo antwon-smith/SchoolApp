@@ -1,0 +1,10 @@
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.deps.json
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.pdb
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfo.cs
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\lesm\Documents\VS Code\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-11\begin\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.pdb
